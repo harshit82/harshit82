@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshit Tathagat
-- 👀 I’m interested in Cyber Security, Ethical Hacking, Android Development, Data Science, Cloud Computing, Machine Learning
+- 👀 I’m interested in Android Development, Data Science, Machine Learning
 - 🌱 I’m currently learning Android Development.
 - 💞️ I’m looking to collaborate on Open Source, Hackathons, Projects.
 - 📫 How to reach me ...
