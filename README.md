@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Harshit Tathagat
 - 👀 I’m interested in Android Development, DevOps, Cloud Computing
-- 🌱 I’m currently learning Android and Flutter Development.
+- 🌱 I’m currently learning Flutter Development, Docker and AWS.
 - 💞️ I’m looking to collaborate on Open Source, Hackathons, Projects.
-- Tech stack I know: Flutter, Firebase, Android, Dart, Java
+- Tech stack I know: Flutter, Firebase, Android, Dart, Java, C++
 - 📫 How to reach me ...
 
-Email :- harshittathagat@rediffmail.com
+Email :- harshittathagat@gmail.com
 
 LinkedIn:- https://www.linkedin.com/in/harshittathagat
 
